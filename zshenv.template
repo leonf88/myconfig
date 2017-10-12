@@ -7,7 +7,11 @@ PATH="/usr/local/opt/findutils/libexec/gnubin:$PATH"
 MANPATH="/usr/local/opt/findutils/libexec/gnuman:$MANPATH"
 MANPATH="/usr/local/opt/coreutils/libexec/gnuman:$MANPATH"
 
+GOPATH="/Users/valder/Codes/GoWorkspaces"
+PATH="$GOPATH/bin:$PATH"
+
 export PATH
+export GOPATH
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.

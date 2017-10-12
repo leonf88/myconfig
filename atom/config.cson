@@ -1,0 +1,36 @@
+"*":
+  "autocomplete-python":
+    extraPaths: "/usr/local/lib/python2.7/site-packages;/Users/valder/Codes/myproject/quant/venv/lib/python2.7/site-packages"
+    pythonPaths: "/usr/local/bin/python;/Users/valder/Codes/myproject/quant/venv/bin/python"
+    useKite: false
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "solarized-light-syntax"
+    ]
+  editor:
+    fontSize: 17
+    preferredLineLength: 85
+    softWrap: true
+  "exception-reporting":
+    userId: "7cf6e724-4a4c-4934-aeb4-3c1a4def978b"
+  "go-plus":
+    currentPanelHeight: "23.91304347826087vh"
+    test:
+      runTestsOnSave: false
+  "linter-ui-default":
+    panelHeight: 239
+  "markdown-writer":
+    fileExtension: ".md"
+  "platformio-ide-terminal":
+    core:
+      shell: "/usr/local/bin/zsh"
+    style:
+      theme: "inverse"
+  "terminal-plus":
+    core: {}
+    toggles:
+      autoClose: true
+  welcome:
+    showOnStartup: false
